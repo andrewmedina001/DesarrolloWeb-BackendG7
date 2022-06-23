@@ -30,3 +30,9 @@ def funcionSinFinValores(clase,*valores):
 
 funcionSinFinValores('abx','abc','acd')
 funcionSinFinValores('abx','abc','acd','gucci')
+
+
+# Funciones Lambda
+sumatoria=lambda numero1,numero2:numero1+numero2
+respuesta=sumatoria(10,5)
+print(respuesta)
