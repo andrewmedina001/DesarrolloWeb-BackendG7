@@ -22,6 +22,8 @@ personaMaria.saludar()
 
 # Constructor
 
+    # 
+
 class Mascota:
     def __init__(self,nombre,especie,raza,sexo):
         self.nombre=nombre
