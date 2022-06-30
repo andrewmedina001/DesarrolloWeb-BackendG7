@@ -1,8 +1,8 @@
 # Pilares
-    # 1. Abstraccion
-    # 2. Encapsulamiento
-    # 3. Herencia
-    # 4. Polimorfismo
+    # 1. Abstraction  -->  
+    # 2. Encapsulation  --> public and private
+    # 3. Herence --> herence methods and atributes
+    # 4. Polymorphism  --> muchas formas 
 
 # Evitar posibles metodos o atriubtos 
 
